@@ -540,7 +540,7 @@
     "fractionSize": 2,
     "symbol": {
       "grapheme": "€",
-      "template": "$1,
+      "template": "$1",
       "rtl": false
     },
     "uniqSymbol": {
